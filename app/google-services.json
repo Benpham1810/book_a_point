@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41084719141",
+    "firebase_url": "https://bookapoint-kotlin.firebaseio.com",
+    "project_id": "bookapoint-kotlin",
+    "storage_bucket": "bookapoint-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41084719141:android:7258629ca201ee5ca62fcc",
+        "android_client_info": {
+          "package_name": "com.testone.book_a_point"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41084719141-jdpm9c3qglq95kl6ktl2mf9sjt0lg5q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testone.book_a_point",
+            "certificate_hash": "0c68a891e5b8d21dd1f3e07b6aac798108dc0c14"
+          }
+        },
+        {
+          "client_id": "41084719141-slb2bpgmhhtuhsauoc3s64s34l3cv6f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrip-kYJdu4n2m7NEBE4ydMPTNjcdb1oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41084719141-slb2bpgmhhtuhsauoc3s64s34l3cv6f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
